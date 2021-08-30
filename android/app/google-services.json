@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "481949066412",
+    "project_id": "problem-8908a",
+    "storage_bucket": "problem-8908a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481949066412:android:e4ed9f5a139a75a1406b09",
+        "android_client_info": {
+          "package_name": "com.practiseapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481949066412-mg4snc28t0mhr123dg682fov6o8gg81p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGnTWa8Uw4V82WjzF2Zs_w-SmFi6GRc6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481949066412-mg4snc28t0mhr123dg682fov6o8gg81p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
